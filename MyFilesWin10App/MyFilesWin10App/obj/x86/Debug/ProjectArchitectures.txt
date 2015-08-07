@@ -1,0 +1,1 @@
+C:\Projects\Windows\MyFilesWin10App\MyFilesWin10App\MyFilesWin10App.csproj;x86
