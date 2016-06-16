@@ -61,10 +61,10 @@ This sample also uses the Discovery Service when establishing a SharePointClient
 ## Running the Application ##
 The application is built as a Windows 10 UWP application, meaning it can run on both Windows 10 Desktop and Mobile. To debug on a specific device or emulator, simply select the desired option from the debug targets dropdown:
 
-![Windows 10 UWP Debug Targets](http://i.imgur.com/olh0QBl.png) 
+![Local Machine selected in the Windows 10 UWP Debug Targets dropdown](http://i.imgur.com/olh0QBl.png) 
 
 ## Windows 10 Desktop: ##
-![](http://i.imgur.com/epMgXsC.png)
+![example of application runing on Windows 10 Desktop displaying a list of folder names and image names](http://i.imgur.com/epMgXsC.png)
 
 ## Windows 10 Mobile: ##
-![](http://i.imgur.com/wl5wToG.png)
+![example of application runing on Windows 10 Mobile displaying a list of folder names and image names](http://i.imgur.com/wl5wToG.png)
