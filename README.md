@@ -1,3 +1,16 @@
+---
+topic: sample
+products:
+- OneDrive
+- Office 365
+languages:
+- C#
+extensions:
+  contentType: samples
+  technologies:
+  - Azure AD
+  createdDate: 8/6/2015 9:07:23 PM
+---
 # MyFiles-API-Win10-UWP
 This repository contains a Universal Windows Platform (UWP) application for Windows 10 that connects to the Office 365 APIs for MyFiles using the new WebAccountManager framework. It displays only folders and images (.png, .jpg, .gif) from OneDrive for Business, so be sure to upload a few before testing.
 ## Environment Setup ##
