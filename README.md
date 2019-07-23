@@ -1,5 +1,5 @@
 ---
-topic: sample
+page_type: sample
 products:
 - office-onedrive
 - office-365
